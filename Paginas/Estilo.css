@@ -1,3 +1,38 @@
-{
-    
+ body {            
+    font-family: Arial, sans-serif;
+     margin: 0;
+     padding: 0;
+     background: #e3a72f;
 }
+header {
+    display: flex;
+    background: #d54b1a;
+    justify-content: space-between;
+    align-items: center;
+    padding: 15px 20px;
+}
+header #logo img {
+width: 100px;
+display: flex;
+
+}
+main {
+background: #e3a72f;
+padding:200px; ;
+}
+# América Central {
+background: #e3a72f;
+}
+button {
+    display: inline-block;
+    padding: 12px 24px;
+    font-size: 16px;
+    font-weight: bold;
+    color: white;
+    background-color: #503d2e;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    text-align: center;
+    text-decoration: none;
+
